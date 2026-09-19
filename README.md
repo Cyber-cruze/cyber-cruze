@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-# I am Cryze
-# 👋 DevOps / Platform Engineer
+# 👋 I am Cryze | DevOps / Platform Engineer
 
 > Building infrastructure that survives traffic spikes, bad deploys, broken dependencies, and 3 AM incidents.
 
