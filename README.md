@@ -80,9 +80,10 @@ DevOps / Platform Engineer focused on **high-load infrastructure, Kubernetes, au
 > **Design systems assuming that eventually something will.**
 
 ```text
-$ kubectl get pods
+$ cruzectl get cryzes
 NAME                     READY   STATUS    RESTARTS
-production               1/1     Running   0
+cryze-prod               1/1     Running   0
 
 $ uptime
 13+ years in production engineering
+No AI! Only masterpiece code!
